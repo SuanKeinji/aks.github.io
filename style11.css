@@ -1,0 +1,54 @@
+.title{
+    font-weight: 100px;
+    font-size: 50px;
+    top: 200%;
+}
+.pic{
+    font-size: 90px;
+    position: relative;
+    top: 40%;
+    left: 19%;
+    width: 887px;
+    height: 495px;
+    border-radius: 20px;
+}
+.pic2{
+    font-size: 90px;
+    position: relative;
+    top: 70%;
+    left: 19%;
+    width: 887px;
+    height: 495px;
+    border-radius: 20px;
+}
+.p{
+    position: absolute;
+    font-size: 25px;
+    text-align: center;
+    margin: 15px 40px;
+}
+.pic3{
+    font-size: 90px;
+    position: absolute;
+    bottom: -127%;
+    left: 19%;
+    width: 887px;
+    height: 495px;
+    border-radius: 20px;
+}
+.pic4{
+    font-size: 90px;
+    position: absolute;
+    bottom: -192%;
+    left: 19%;
+    width: 887px;
+    height: 495px;
+    border-radius: 20px;
+}
+.p2{
+    position: absolute;
+    font-size: 25px;
+    text-align: center;
+    margin: 15px 40px;
+    bottom: -1730px;
+}

@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+}
+.title{
+    font-weight: 100px;
+    font-size: 50px;
+    top: 200%;
+}
+.subtitle{
+    font-size: 29px;
+    text-align: center;
+}
+.pic{
+    font-size: 90px;
+    position: relative;
+    top: 40%;
+    left: 25%;
+    width: 700px;
+    height: 395px;
+    border-radius: 20px;
+}
+.pic2{
+    font-size: 90px;
+    position: absolute;
+    top: 85%;
+    left: 25%;
+    width: 700px;
+    height: 395px;
+    border-radius: 20px;
+}
+.p{
+    position: absolute;
+    font-size: 25px;
+    margin: 25px 50px;
+    text-align: center;
+    left: 195px;
+    bottom: -385px;
+}
+.pic3{
+    font-size: 90px;
+    position: absolute;
+    top: 1150px;
+    left: 3%;
+    width: 670px;
+    height: 395px;
+    border-radius: 20px;
+}
+.pic4{
+    font-size: 90px;
+    position: absolute;
+    top: 1150px;
+    left: 51%;
+    width: 670px;
+    height: 395px;
+    border-radius: 20px;
+}
+.pic5{
+    font-size: 90px;
+    position: absolute;
+    top: 1550px;
+    left: 3%;
+    width: 670px;
+    height: 395px;
+    border-radius: 20px;
+}
+.pic6{
+    font-size: 90px;
+    position: absolute;
+    top: 1550px;
+    left: 51%;
+    width: 670px;
+    height: 395px;
+    border-radius: 20px;
+}
+.p2{
+    position: absolute;
+    font-size: 25px;
+    margin: 25px 50px;
+    text-align: center;
+    left: 30px;
+    bottom: -1290px;
+}

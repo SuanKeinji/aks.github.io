@@ -1,0 +1,39 @@
+.container{
+    margin-left: 150px;
+}
+.con-box1 {
+    display: flex;
+    margin-top: 50px;
+    width: 85%;
+    height: 299px;
+    background-color: #f39f5a;
+    border-radius: 20px;
+}
+.con-box1 img{
+    width: 495px;
+    height: 299px;
+}
+.con-box1 h1{
+    position: relative;
+    left: 5%;
+    top: 35%;
+
+}
+.con-box2 {
+   display: flex;
+    margin-top: 50px;
+    width: 85%;
+    height: 299px;
+    background-color: #473e66;
+    border-radius: 20px;
+}
+.con-box2 img{
+    width: 496px;
+    height: 299px;
+}
+.con-box2 h1{
+    position: relative;
+    left: 15%;
+    top: 35%;
+
+}

@@ -1,0 +1,26 @@
+.react-box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    background: black;
+    height: 30px;
+    width: 160px;
+    border-radius: 5px;
+
+}
+.react-box i:hover{
+    transform: scale(1.6);
+    transition: 1.1s;
+    cursor: pointer;
+    position: relative;
+    bottom: 15%;
+}
+.react-box button{
+    border: none;
+    background: none;
+    outline: none;
+    color: grey;
+    transition: 1.2s;
+}

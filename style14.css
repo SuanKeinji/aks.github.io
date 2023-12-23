@@ -1,0 +1,55 @@
+.title{
+    font-weight: 100px;
+    font-size: 50px;
+    top: 200%;
+}
+.p{
+    position: absolute;
+    font-size: 25px;
+    margin: 25px 50px;
+    text-align: center;
+    left: -30px;
+}
+.pic{
+    font-size: 90px;
+    position: absolute;
+    top: 33%;
+    left: 25%;
+    width: 700px;
+    height: 550px;
+    border-radius: 20px;
+}
+.pic2{
+    font-size: 90px;
+    position: absolute;
+    top: 820px;
+    left: 25%;
+    width: 700px;
+    height: 550px;
+    border-radius: 20px;
+}
+.p2{
+    position: absolute;
+    font-size: 25px;
+    margin: 25px 50px;
+    text-align: center;
+    left: 150px;
+    bottom: -675px;
+}
+.pic3{
+    font-size: 90px;
+    position: absolute;
+    bottom: -1210px;
+    left: 25%;
+    width: 700px;
+    height: 550px;
+    border-radius: 20px;
+}
+.p3{
+    position: absolute;
+    font-size: 25px;
+    margin: 25px 50px;
+    text-align: center;
+    left: 10px;
+    bottom: -1320px;
+}

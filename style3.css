@@ -1,0 +1,53 @@
+
+.title{
+    font-weight: 100px;
+    font-size: 100px;
+    top: 200%;
+}
+.pic1{
+    font-size: 90px;
+    position: relative;
+    top: 40%;
+    left: 25%;
+    width: 670px;
+    height: 395px;
+    border-radius: 20px;
+}
+.p1{
+    position: absolute;
+    top: 190px;
+    font-size: 35px;
+    left: 380px;
+}
+.p2{
+    position: absolute;
+    font-size: 25px;
+    margin: 25px 50px;
+    text-align: center;
+}
+.pic2{
+    font-size: 90px;
+    position: absolute;
+    top: 105%;
+    left: 25%;
+    width: 670px;
+    height: 395px;
+    border-radius: 20px;
+}
+.p3{
+    position: absolute;
+    font-size: 25px;
+    margin: 25px 50px;
+    bottom: -545px;
+    text-align: center;
+}
+.wm{
+    position: absolute;
+    left: 400px;
+    top: 600px;
+    font-size: 30px;
+}
+.line{
+    position: absolute;
+    bottom: -540px;
+}
